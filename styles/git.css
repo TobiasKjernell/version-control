@@ -23,6 +23,12 @@ body {
     font-size: 1rem;
 }
 
+.header2 {
+    background-color: cadetblue;
+    margin: 0;
+    padding 16px;
+}
+
 .git-commands {
     margin: 16px;
     display: grid;
